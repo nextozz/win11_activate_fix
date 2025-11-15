@@ -9,8 +9,8 @@ title (windows 11 activate)->by @nxt1337
 ::     timeout /t 3 /nobreak >nul
 ::    exit /b 1
 ::)
-echo author = @nxt1337
-echo Zagryzhaemsya ->
+echo author - nxt1337
+echo Zagryzhaemsya
 echo Run as progress..
 echo.
 echo 1.key(TX9XD-98N7V-6WMQ6-BX7FG-H8Q99)..

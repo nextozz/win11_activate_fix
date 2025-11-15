@@ -1,7 +1,7 @@
 @echo off
 ::chcp 1251 >nul
 echo em... loaded ->
-title (windows 11 activate)->by @nxt1337
+title (windows 11 activate:home)->by @nxt1337
 :: ем и так есть дбг :/
 ::net session >nul 2>&1
 ::if %errorLevel% neq 0 (
